@@ -1,0 +1,15 @@
+/Users/leman/Desktop/C# /TaskBook/TaskBook/bin/Debug/net6.0/TaskBook
+/Users/leman/Desktop/C# /TaskBook/TaskBook/bin/Debug/net6.0/TaskBook.deps.json
+/Users/leman/Desktop/C# /TaskBook/TaskBook/bin/Debug/net6.0/TaskBook.runtimeconfig.json
+/Users/leman/Desktop/C# /TaskBook/TaskBook/bin/Debug/net6.0/TaskBook.dll
+/Users/leman/Desktop/C# /TaskBook/TaskBook/bin/Debug/net6.0/TaskBook.pdb
+/Users/leman/Desktop/C# /TaskBook/TaskBook/obj/Debug/net6.0/TaskBook.csproj.AssemblyReference.cache
+/Users/leman/Desktop/C# /TaskBook/TaskBook/obj/Debug/net6.0/TaskBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leman/Desktop/C# /TaskBook/TaskBook/obj/Debug/net6.0/TaskBook.AssemblyInfoInputs.cache
+/Users/leman/Desktop/C# /TaskBook/TaskBook/obj/Debug/net6.0/TaskBook.AssemblyInfo.cs
+/Users/leman/Desktop/C# /TaskBook/TaskBook/obj/Debug/net6.0/TaskBook.csproj.CoreCompileInputs.cache
+/Users/leman/Desktop/C# /TaskBook/TaskBook/obj/Debug/net6.0/TaskBook.dll
+/Users/leman/Desktop/C# /TaskBook/TaskBook/obj/Debug/net6.0/refint/TaskBook.dll
+/Users/leman/Desktop/C# /TaskBook/TaskBook/obj/Debug/net6.0/TaskBook.pdb
+/Users/leman/Desktop/C# /TaskBook/TaskBook/obj/Debug/net6.0/TaskBook.genruntimeconfig.cache
+/Users/leman/Desktop/C# /TaskBook/TaskBook/obj/Debug/net6.0/ref/TaskBook.dll

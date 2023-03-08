@@ -1,0 +1,2 @@
+
+Oncelikle, "Product.cs" adli class yaradiriq. "Product" class'inin içerisine 3 muxtelif input elave edirik. Hansilar ki "productName","costPrice" ve "saledPrice" dir. Bunların 3unu de *private* olaraq yaziriq cunki Encapsulation-dan istifade edirik. Encapsulation vasitesi ile biz inputlarimizin uzerinde  yalnız method'larin komedi ile isleye bilirik. Ve bu zaman "set" ve "get" den istifade edirik. Bu vasite ile biz inputlari class dan kenarda da gore bilecik.

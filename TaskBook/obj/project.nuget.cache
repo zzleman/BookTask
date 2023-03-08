@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y9gtXCz7DSkysV1gM6sfpQtAMDFqxHncO2lV0IKO65fE1n2kB87J64Sm8HwcG2+FUtcE3JBCVPZuY3om7VZiNA==",
+  "success": true,
+  "projectFilePath": "/Users/leman/Desktop/C# /TaskBook/TaskBook/TaskBook.csproj",
+  "expectedPackageFiles": [
+    "/Users/leman/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "/Users/leman/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.12/microsoft.netcore.app.host.osx-arm64.6.0.12.nupkg.sha512",
+    "/Users/leman/.nuget/packages/microsoft.netcore.app.ref/6.0.12/microsoft.netcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
